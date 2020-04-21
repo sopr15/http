@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=utf-8
+X-Cloud-Trace-Context: 188300ead8e559ffa1027882275e56ac
+Date: Tue, 21 Apr 2020 14:39:04 GMT
+Server: Google Frontend
+Content-Length: 54
+
+Thank you for this dump. I hope you have a lovely day!HTTP/1.0 400 Bad Request
+Content-Length: 54
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 21 Apr 2020 14:39:04 GMT
+
+<html><title>Error 400 (Bad Request)!!1</title></html>
